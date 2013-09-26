@@ -1,0 +1,14 @@
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline-block;
+}
+
+.story {
+  border: solid 3px black;
+  width: 90%;
+  height: 70%;
+  min-height: 300px;
+}
